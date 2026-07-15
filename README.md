@@ -155,7 +155,7 @@ All three buttons use the same relative path — change the PDF once, all three 
 Edit `index.html` to customize:
 
 ### Contact Links
-Search for `nitinsandiego@gmail.com`, `github.com/nitinsandiego`, `linkedin.com/in/nitinbalaji` and replace with your info.
+Search for `nitinsandiego@gmail.com`, `github.com/nitin-balaji`, `linkedin.com/in/nitinbalaji` and replace with your info.
 
 ### Certification Credentials
 The three real credential links are already wired:

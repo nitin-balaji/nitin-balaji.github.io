@@ -20,7 +20,7 @@
 ✅ Footer copyright: "© 2026 Nitin Balaji"
 ✅ Footer tagline: "Built with HTML, CSS & JavaScript"
 ✅ Real credential links for 3 certifications (Stanford, Java, Python)
-✅ Social links: GitHub (nitinsandiego), LinkedIn (nitinbalaji)
+✅ Social links: GitHub (nitin-balaji), LinkedIn (nitinbalaji)
 ✅ Email link: nitinsandiego@gmail.com
 
 ### Feature Checklist
