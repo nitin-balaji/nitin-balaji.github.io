@@ -78,7 +78,7 @@ body.is-loaded {
   --space-20: 5rem;
   --space-24: 6rem;
 
-  --section-padding-y: clamp(3rem, 8vw, 6rem);
+  --section-padding-y: clamp(2rem, 5vw, 4rem);
   --container-width: 1200px;
   --container-padding-x: clamp(1.25rem, 5vw, 3rem);
 
